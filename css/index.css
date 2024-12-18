@@ -84,24 +84,25 @@ a {
     position: relative;
     /* background-color: rgb(87, 93, 76); */
 }
-/* 
+
 #main_img {
     position: relative;
-   
+    width:100%;
     height: 750px;
 }
 
 .main_img_sli {
     position: relative;
- 
-    height: 50px;
-    float: left;
+    width: 100%;
+    height: 1000px;
 }
 
 .main_img_sli>img {
-width: 50px;
-} */
- .main_img_sli>img{
     width: 100%;
-    height: 550px;
- }
+    height: 750px;
+}
+
+.main_img_sli>img {
+    width: 100%;
+    height: 750px;
+}
